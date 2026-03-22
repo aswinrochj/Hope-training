@@ -1,0 +1,12 @@
+Task 3: Why file name and class name must be the same
+
+The file name must match the public class name because:
+Java allows only one public class per file
+The compiler uses the file name to identify the public class
+If the names do not match, it will give a compile-time error
+
+Example:
+public class Main {
+}
+
+The file must be saved as: Main.java

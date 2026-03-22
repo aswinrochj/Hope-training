@@ -1,0 +1,10 @@
+Task 2: Purpose of comma ( , ) in print statement
+
+In Java, the comma ( , ) is NOT used in print statements like System.out.println().
+It is actually used to separate multiple arguments in methods or parameters, but Java print statements do not support multiple arguments directly.
+
+To print multiple things, we use: + operator (concatenation)
+
+Example:
+
+System.out.println("Value: " + x);

@@ -1,0 +1,11 @@
+Task 1: Range of short, int, and char in Java
+short
+It uses 2 bytes (16 bits).
+Range: -32,768 to 32,767
+int
+It uses 4 bytes (32 bits).
+Range: -2³¹ to (2³¹ − 1)
+i.e., -2,147,483,648 to 2,147,483,647
+char
+It uses 2 bytes (16 bits).
+Range: 0 to 65,535 (since it is unsigned and represents Unicode characters)
