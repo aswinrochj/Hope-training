@@ -1,4 +1,4 @@
-\# 🚀 Hope Training Repository
+# 🚀 Hope Training Repository
 
 
 
@@ -6,11 +6,11 @@ This repository documents my continuous learning and hands-on practice in progra
 
 
 
-\---
+---
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -18,47 +18,47 @@ The repository includes a variety of coding exercises and problem-solving implem
 
 
 
-\---
+---
 
 
 
-\## 💻 Technical Focus Areas
+## 💻 Technical Focus Areas
 
 
 
-\* Core Programming (Java)
+* Core Programming (Java)
 
-\* Problem Solving \& Algorithms
+* Problem Solving \& Algorithms
 
-\* Data Structures (Fundamentals)
+* Data Structures (Fundamentals)
 
-\* Version Control using Git \& GitHub
-
-
-
-\---
+* Version Control using Git \& GitHub
 
 
 
-\## 🧠 Key Highlights
+---
 
 
 
-\* Consistent coding practice and concept implementation
-
-\* Structured approach to problem solving
-
-\* Hands-on experience with Git workflows (commit, push, branching)
-
-\* Clean and modular code organization
+## 🧠 Key Highlights
 
 
 
-\---
+* Consistent coding practice and concept implementation
+
+* Structured approach to problem solving
+
+* Hands-on experience with Git workflows (commit, push, branching)
+
+* Clean and modular code organization
 
 
 
-\## 📂 Contents
+---
+
+
+
+## 📂 Contents
 
 
 
@@ -66,85 +66,85 @@ The repository contains:
 
 
 
-\* Practice programs covering fundamental and intermediate concepts
+* Practice programs covering fundamental and intermediate concepts
 
-\* Algorithmic problem solutions
+* Algorithmic problem solutions
 
-\* Logic-building exercises
+* Logic-building exercises
 
-\* Task-based implementations
-
-
-
-\---
+* Task-based implementations
 
 
 
-\## 🎯 Objectives
+---
 
 
 
-\* Strengthen programming fundamentals
-
-\* Improve analytical and problem-solving skills
-
-\* Build consistency in development practices
-
-\* Gain practical experience with version control systems
+## 🎯 Objectives
 
 
 
-\---
+* Strengthen programming fundamentals
+
+* Improve analytical and problem-solving skills
+
+* Build consistency in development practices
+
+* Gain practical experience with version control systems
 
 
 
-\## 🔧 Tools \& Technologies
+---
 
 
 
-\* Java
-
-\* Git
-
-\* GitHub
+## 🔧 Tools & Technologies
 
 
 
-\---
+* Java
+
+* Git
+
+* GitHub
 
 
 
-\## 🚀 Future Scope
+---
 
 
 
-\* Advanced Data Structures \& Algorithms
-
-\* Full-stack development projects
-
-\* Optimization techniques and clean code practices
-
-\* Real-world application development
+## 🚀 Future Scope
 
 
 
-\---
+* Advanced Data Structures \& Algorithms
+
+* Full-stack development projects
+
+* Optimization techniques and clean code practices
+
+* Real-world application development
 
 
 
-\## 👨‍💻 Author
+---
 
 
 
-\*\*Aswin Roch J\*\*
+## 👨‍💻 Author
 
 
 
-\---
+**Aswin Roch J**
 
 
 
-\## 📌 Note
+---
+
+
+
+## 📌 Note
 
 
 
@@ -152,7 +152,7 @@ This repository is a part of my ongoing learning journey and will continue to ev
 
 
 
-\---
+---
 
 
 
